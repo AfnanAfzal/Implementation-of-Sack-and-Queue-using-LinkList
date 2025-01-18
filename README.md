@@ -25,7 +25,7 @@ Run the queue program using Python:
 
 ## Purpose of the Code
 
-This code aims to illustrate how stacks and queues can be implemented with linked lists, offering efficient and dynamic data structures for common operations.
+This code demonstrates how to implement stacks and queues using linked lists, providing efficient and flexible data structures for various operations.
 
 ## Features -
 **Stack Implementation**:
@@ -40,18 +40,11 @@ This code aims to illustrate how stacks and queues can be implemented with linke
 - dequeue(): Removes the front element from the queue.
 - peek(): Views the front element without removing it.
 - is_empty(): Checks if the queue is empty.
-- display(): Shows the elements in the queue.
+- display(): Shows the elements in the queue
 
 ## Time Complexity for Stack
 - push(): O(1)
 - pop(): O(1)
-- peek(): O(1)
-- is_empty(): O(1)
-- display(): O(n)
-
-## Time Complexity for Queue
-- enqueue(): O(1)
-- dequeue(): O(1)
 - peek(): O(1)
 - is_empty(): O(1)
 - display(): O(n)
