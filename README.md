@@ -48,3 +48,14 @@ This code demonstrates how to implement stacks and queues using linked lists, pr
 - peek(): O(1)
 - is_empty(): O(1)
 - display(): O(n)
+
+## Time Complexity for Queue
+enqueue(): O(1)
+
+dequeue(): O(1)
+
+peek(): O(1)
+
+is_empty(): O(1)
+
+display(): O(n).
