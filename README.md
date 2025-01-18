@@ -6,7 +6,7 @@ Open your terminal or command prompt.
 
 Clone the repository using the following command:
 git clone https://github.com/AfnanAfzal/Implementation-of-Sack-and-Queue-using-LinkList/tree/main
-cd 
+cd ProjectDSA
 
 2- **Run the Stack Implementation**:
 
