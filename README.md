@@ -12,14 +12,14 @@ cd ProjectDSA
 
 2- **Run the Stack Implementation**:
 
-Navigate to the directory where the stack implementation file `Stack_using_LinkList.py` is located.
+Navigate to the directory where the stack implementation file `Stack using LinkList.py` is located.
 
 Run the stack program using Python:
 python Stack_using_LinkList.py
 
 3- **Run the Queue Implementation**:
 
-Navigate to the directory where the queue implementation file `Queue_using_LinkList.py` is located.
+Navigate to the directory where the queue implementation file `Queue using LinkList.py` is located.
 
 Run the queue program using Python:
 
